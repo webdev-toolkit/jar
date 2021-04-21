@@ -1,4 +1,4 @@
-# Production Deployment with NGINX
+# Production Deployment with Jar Packaging
 
 Web Developers Toolkit: https://www.youtube.com/channel/UCdLqxzh_bocMmfgAdssvngg/featured
 
